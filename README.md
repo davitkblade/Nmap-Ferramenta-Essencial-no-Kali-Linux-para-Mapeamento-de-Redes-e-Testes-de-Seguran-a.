@@ -1,0 +1,1 @@
+# Nmap-Ferramenta-Essencial-no-Kali-Linux-para-Mapeamento-de-Redes-e-Testes-de-Seguran-a.
